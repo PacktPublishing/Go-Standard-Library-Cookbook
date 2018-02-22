@@ -1,0 +1,1 @@
+Hi, Go is awesome!
